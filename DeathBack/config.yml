@@ -1,0 +1,21 @@
+survivant: 0
+aventurier : 20
+baron : 40
+duc : 50
+comte : 60
+marquis : 70
+hero : 80
+legende : 90
+fantome : 100
+
+tresi : 15
+
+money : β
+
+valid_teleportation : §aVous venez d'être téléporté à votre point de mort et vous avez été prélevé de {PRICE}{MONEY}
+
+error_money : §cVous n'avez pas assser d'argent pour vous téléporter à votre point de mort, il vous faut au moin {PRICE}{MONEY} !
+
+error_tp : §cVous avez déja été tp à votre point de mort
+
+error_coord : §cVotre point de mort se trouve à des coordonnées non valides
