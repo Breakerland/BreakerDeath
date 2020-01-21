@@ -1,0 +1,33 @@
+name: DeathBack
+version: 1.1
+authors: [AlexRex_, AzodFR, LLIcocoman_Hrz]
+main: fr.alexrex.deathback.Main
+api-version: 1.15
+depends: [Vault, Essentials]
+commands:
+  dback:
+    description: Se tp a l'endroit ou on est mort
+    permissions:
+      dback.use:
+        description: Utiliser la commande /dback
+      dback.reload:
+        description: Utiliser la command /dback reload
+permissions:
+  dback.survivant:
+    description: prix survivants
+  dback.aventurier:
+    description: prix aventurier
+  dback.baron:
+    description: prix baron
+  dback.duc:
+    description: prix duc
+  dback.comte:
+    description: prix comte
+  dback.marquis:
+    description: prix marqui
+  dback.hero:
+    description: prix hero
+  dback.legende:
+    description: prix legende
+  dback.fantome:
+    description: prix fantome
